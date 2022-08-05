@@ -1,0 +1,17 @@
+.course{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.CourseData{
+    margin-left: 20px;
+}
+.price{
+    font-size: 25px;
+    font-weight: 700;
+    color: green;
+}
